@@ -1,0 +1,9 @@
+[13-Aug-2012 21:56:21 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 92
+[13-Aug-2012 21:56:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 3
+[13-Aug-2012 21:56:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 3
+[13-Aug-2012 21:57:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 3
+[13-Aug-2012 21:57:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 3
+[13-Aug-2012 21:58:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 3
+[13-Aug-2012 21:58:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 3
+[13-Aug-2012 21:59:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 3
+[13-Aug-2012 22:03:38 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/kraniu5/public_html/wp-content/plugins/pkmn-trainer/includes/pkmn-list.php on line 658
